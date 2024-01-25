@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fdf23faa-9f4f-40bc-9177-d14b308b97d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,17 +16,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2bPsb1bYi5EYW9wAhtVEFIAzENW" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -39,8 +41,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
     "git-widget-placeholder": "main",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -55,7 +58,7 @@
       <recent name="pl.kacper_malajkat.arrays_and_hashing" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.ValidAnagramTest.testSolution">
     <configuration name="ContainsDuplicateTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Blind75" />
       <extension name="coverage">
@@ -73,8 +76,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidAnagramTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Blind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kacper_malajkat.arrays_and_hashing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.arrays_and_hashing" />
+      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.ValidAnagramTest" />
+      <option name="METHOD_NAME" value="testSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ValidAnagramTest.testSolution" />
         <item itemvalue="TestNG.ContainsDuplicateTest" />
       </list>
     </recent_temporary>
