@@ -4,6 +4,9 @@ package pl.kacper_malajkat.arrays_and_hashing;
     Given two strings s and t,
     return true if t is an anagram of s,
     and false otherwise.
+
+    T: O(N)
+    S: O(1)
 */
 class ValidAnagram {
 
