@@ -7,7 +7,7 @@
     <list default="true" id="fdf23faa-9f4f-40bc-9177-d14b308b97d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/kacper_malajkat/arrays_and_hashing/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/kacper_malajkat/arrays_and_hashing/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/kacper_malajkat/arrays_and_hashing/StringEncodeAndDecodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/kacper_malajkat/arrays_and_hashing/StringEncodeAndDecodeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.GroupAnagramsTest.executor": "Run",
     "TestNG.GroupAnagramsTest.testSolution.executor": "Run",
+    "TestNG.ProductOfArrayExceptSelfTest.testSolution.executor": "Run",
+    "TestNG.StringEncodeAndDecodeTest.executor": "Run",
     "TestNG.TopKFrequentElementsTest.executor": "Run",
     "TestNG.TopKFrequentElementsTest.testSolution.executor": "Run",
     "TestNG.TwoSumTest.testSolution.executor": "Run",
@@ -69,7 +71,7 @@
       <recent name="pl.kacper_malajkat.arrays_and_hashing" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ProductOfArrayExceptSelfTest.testSolution">
+  <component name="RunManager" selected="TestNG.StringEncodeAndDecodeTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.Main" />
       <module name="Blind75" />
@@ -136,7 +138,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopKFrequentElementsTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StringEncodeAndDecodeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Blind75" />
       <extension name="coverage">
         <pattern>
@@ -145,9 +147,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.kacper_malajkat.arrays_and_hashing" />
-      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.TopKFrequentElementsTest" />
-      <option name="METHOD_NAME" value="testSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.StringEncodeAndDecodeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -156,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.StringEncodeAndDecodeTest" />
         <item itemvalue="TestNG.ProductOfArrayExceptSelfTest.testSolution" />
         <item itemvalue="Application.Main" />
         <item itemvalue="TestNG.GroupAnagramsTest.testSolution" />
         <item itemvalue="TestNG.GroupAnagramsTest" />
-        <item itemvalue="TestNG.TopKFrequentElementsTest.testSolution" />
       </list>
     </recent_temporary>
   </component>
