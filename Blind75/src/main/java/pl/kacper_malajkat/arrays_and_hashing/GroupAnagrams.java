@@ -12,9 +12,9 @@ import java.util.List;
 
     T: O(M * N)
 */
-public class GroupAnagrams {
+class GroupAnagrams {
 
-    public static List<List<String>> groupAnagrams(String[] strs) {
+    static List<List<String>> groupAnagrams(String[] strs) {
         HashMap<String, List<String>> map = new HashMap<>();
 
         for (String s:strs){
