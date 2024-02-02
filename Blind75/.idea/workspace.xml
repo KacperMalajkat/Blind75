@@ -74,7 +74,7 @@
       <recent name="pl.kacper_malajkat.arrays_and_hashing" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ValidPalindromeTest">
+  <component name="RunManager" selected="TestNG.ThreeSumTest.testSolution">
     <configuration name="LongestConsecutiveSequenceTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Blind75" />
       <extension name="coverage">
@@ -85,24 +85,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="pl.kacper_malajkat.arrays_and_hashing" />
       <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.LongestConsecutiveSequenceTest" />
-      <option name="METHOD_NAME" value="testSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOfArrayExceptSelfTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Blind75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kacper_malajkat.arrays_and_hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.arrays_and_hashing" />
-      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.ProductOfArrayExceptSelfTest" />
       <option name="METHOD_NAME" value="testSolution" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -122,6 +104,24 @@
       <option name="PACKAGE_NAME" value="pl.kacper_malajkat.arrays_and_hashing" />
       <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.StringEncodeAndDecodeTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSumTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Blind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kacper_malajkat.two_pointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.two_pointers" />
+      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.two_pointers.ThreeSumTest" />
+      <option name="METHOD_NAME" value="testSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ThreeSumTest.testSolution" />
         <item itemvalue="TestNG.ValidPalindromeTest" />
         <item itemvalue="TestNG.ValidPalindromeTest.testSolution" />
         <item itemvalue="TestNG.LongestConsecutiveSequenceTest.testSolution" />
         <item itemvalue="TestNG.StringEncodeAndDecodeTest" />
-        <item itemvalue="TestNG.ProductOfArrayExceptSelfTest.testSolution" />
       </list>
     </recent_temporary>
   </component>
