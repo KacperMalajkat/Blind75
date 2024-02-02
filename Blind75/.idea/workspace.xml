@@ -53,6 +53,8 @@
     "TestNG.TopKFrequentElementsTest.executor": "Run",
     "TestNG.TopKFrequentElementsTest.testSolution.executor": "Run",
     "TestNG.TwoSumTest.testSolution.executor": "Run",
+    "TestNG.ValidPalindromeTest.executor": "Run",
+    "TestNG.ValidPalindromeTest.testSolution.executor": "Run",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "TestNG",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG": "",
@@ -68,41 +70,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.kacper_malajkat.two_pointers" />
       <recent name="pl.kacper_malajkat.arrays_and_hashing" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LongestConsecutiveSequenceTest.testSolution">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.Main" />
-      <module name="Blind75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kacper_malajkat.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupAnagramsTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Blind75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kacper_malajkat.arrays_and_hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.arrays_and_hashing" />
-      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.GroupAnagramsTest" />
-      <option name="METHOD_NAME" value="testSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.ValidPalindromeTest">
     <configuration name="LongestConsecutiveSequenceTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Blind75" />
       <extension name="coverage">
@@ -156,13 +128,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidPalindromeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Blind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kacper_malajkat.two_pointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.two_pointers" />
+      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.two_pointers.ValidPalindromeTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidPalindromeTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Blind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kacper_malajkat.two_pointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.two_pointers" />
+      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.two_pointers.ValidPalindromeTest" />
+      <option name="METHOD_NAME" value="testSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ValidPalindromeTest" />
+        <item itemvalue="TestNG.ValidPalindromeTest.testSolution" />
         <item itemvalue="TestNG.LongestConsecutiveSequenceTest.testSolution" />
         <item itemvalue="TestNG.StringEncodeAndDecodeTest" />
         <item itemvalue="TestNG.ProductOfArrayExceptSelfTest.testSolution" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="TestNG.GroupAnagramsTest.testSolution" />
       </list>
     </recent_temporary>
   </component>
