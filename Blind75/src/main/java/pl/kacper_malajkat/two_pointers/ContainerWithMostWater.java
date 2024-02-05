@@ -13,6 +13,7 @@ package pl.kacper_malajkat.two_pointers;
     Notice that you may not slant the container.
 
     T: O(N)
+    S: O(1)
 */
 class ContainerWithMostWater {
 
