@@ -7,6 +7,7 @@
     <list default="true" id="fdf23faa-9f4f-40bc-9177-d14b308b97d2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pl/kacper_malajkat/two_pointers/ContainerWithMostWaterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/kacper_malajkat/two_pointers/ContainerWithMostWaterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,11 +46,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ContainerWithMostWaterTest.testSolution.executor": "Run",
     "TestNG.GroupAnagramsTest.executor": "Run",
     "TestNG.GroupAnagramsTest.testSolution.executor": "Run",
     "TestNG.LongestConsecutiveSequenceTest.testSolution.executor": "Run",
     "TestNG.ProductOfArrayExceptSelfTest.testSolution.executor": "Run",
     "TestNG.StringEncodeAndDecodeTest.executor": "Run",
+    "TestNG.ThreeSumTest.testSolution.executor": "Run",
     "TestNG.TopKFrequentElementsTest.executor": "Run",
     "TestNG.TopKFrequentElementsTest.testSolution.executor": "Run",
     "TestNG.TwoSumTest.testSolution.executor": "Run",
@@ -74,7 +77,25 @@
       <recent name="pl.kacper_malajkat.arrays_and_hashing" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ThreeSumTest.testSolution">
+  <component name="RunManager" selected="TestNG.ContainerWithMostWaterTest.testSolution">
+    <configuration name="ContainerWithMostWaterTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Blind75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.kacper_malajkat.two_pointers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.two_pointers" />
+      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.two_pointers.ContainerWithMostWaterTest" />
+      <option name="METHOD_NAME" value="testSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestConsecutiveSequenceTest.testSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Blind75" />
       <extension name="coverage">
@@ -87,23 +108,6 @@
       <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.LongestConsecutiveSequenceTest" />
       <option name="METHOD_NAME" value="testSolution" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringEncodeAndDecodeTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Blind75" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.kacper_malajkat.arrays_and_hashing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.kacper_malajkat.arrays_and_hashing" />
-      <option name="MAIN_CLASS_NAME" value="pl.kacper_malajkat.arrays_and_hashing.StringEncodeAndDecodeTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -165,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ContainerWithMostWaterTest.testSolution" />
         <item itemvalue="TestNG.ThreeSumTest.testSolution" />
         <item itemvalue="TestNG.ValidPalindromeTest" />
         <item itemvalue="TestNG.ValidPalindromeTest.testSolution" />
         <item itemvalue="TestNG.LongestConsecutiveSequenceTest.testSolution" />
-        <item itemvalue="TestNG.StringEncodeAndDecodeTest" />
       </list>
     </recent_temporary>
   </component>
